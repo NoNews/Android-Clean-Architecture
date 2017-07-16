@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Clean Architecture</string>
+    <string name="auth_login">Вход</string>
+    <string name="auth_registration">Регистрация</string>
+    <string name="error_incorrect_password">Пароль некорректен</string>
+    <string name="error_incorrect_email">Email некорректен</string>
+    <string name="error_oncorrect_email">E-mail некорректен</string>
+</resources>
